@@ -1,0 +1,12 @@
+dir : 현재 위치에서 파일 목록
+cd : 다른 디렉토리로 이동
+cls :현재 화면 청소
+
+
+git --version :git의 현재 버전
+git config --global.name "eojin"
+git congfig --global user.email "eojin20004@gmail.com"
+
+
+test3.txt
+*.jpg
